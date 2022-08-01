@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "lib": [
+            "esnext"
+        ],
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "esModuleInterop": true,
+        "module": "commonjs",
+        "resolveJsonModule": true
+    },
+}
